@@ -47,7 +47,7 @@ pip install -r requirements.txt
 1. Run the main script:
 
 ```bash
-python hand_gesture_control.py
+python main.py
 ```
 
 2. The camera will be activated, and you can control your computer with hand gestures.
